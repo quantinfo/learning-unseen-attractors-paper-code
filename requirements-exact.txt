@@ -1,0 +1,6 @@
+# exact versions used in the paper
+numpy==1.21.5
+scipy==1.7.3
+
+# this is not so critical
+matplotlib>=2
