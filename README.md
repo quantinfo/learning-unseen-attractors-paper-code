@@ -1,6 +1,3 @@
-# Learning Unseen Coexisting Attractors
- Code for the paper "Learning Unseen Coexisting Attractors"
-
 Learning Unseen Coexisting Attractors
 =====================================
 
